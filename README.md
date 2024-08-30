@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/fjut7fZ.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
+![Video Walkthrough](https://github.com/haegray/web102_prework/blob/main/Web102.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
