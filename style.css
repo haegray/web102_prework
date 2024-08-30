@@ -21,6 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    background-color: greenyellow;
+    align-items: baseline;
+}
+
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
+    cursor: pointer;
 }
 
 .stats-card {
@@ -44,17 +51,30 @@ body {
 
 .game-img {
     width: 100%;
+    height: auto;
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
+    max-height:200px;
+}
+
+.game-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #FFFFFF;
+    max-height:200px;
+    
 }
 
 .game-card {
+    position: relative;
     background-color: #FFFFFF;
     padding: 1%;
     margin: 1%;
     width: 300px;
     text-align: center;
     border-radius: 7px;
+    overflow: hidden;
 }
 
 .game-card:hover {
